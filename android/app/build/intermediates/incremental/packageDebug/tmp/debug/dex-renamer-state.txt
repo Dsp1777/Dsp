@@ -1,0 +1,16 @@
+#Thu Feb 10 15:05:31 IST 2022
+path.3=14/classes.dex
+path.2=13/classes.dex
+path.1=0/classes.dex
+renamed.4=classes5.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+base.4=E\:\\Darshan\\Dsp\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+renamed.0=classes.dex
+base.3=E\:\\Darshan\\Dsp\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.2=E\:\\Darshan\\Dsp\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.1=E\:\\Darshan\\Dsp\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=E\:\\Darshan\\Dsp\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.4=0/classes.dex
