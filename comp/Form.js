@@ -1,7 +1,7 @@
 
 
 import React from 'react';
-import  {View,Text,StyleSheet, TextInput, Button,state} from 'react-native';
+import  {View,Text,StyleSheet, TextInput, Button,state,KeyboardAvoidingView,ScrollView} from 'react-native';
 
 
 
@@ -21,6 +21,9 @@ class Form extends React.Component {
   }
   render(){
     return(
+     
+        <ScrollView >
+           <KeyboardAvoidingView >
       <View  style={{backgroundColor:"#ffe6e6"}}>
         
          <Text  style={styles.head}>Register Now! </Text> 
@@ -41,6 +44,11 @@ class Form extends React.Component {
         <Text>{this.state.password}</Text>
       }
       </View>
+      </KeyboardAvoidingView>
+      </ScrollView>
+      
+      
+      
     )
   }
 }
